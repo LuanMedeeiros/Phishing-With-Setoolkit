@@ -14,3 +14,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Template Websites ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
+
+### Resutados
+
+![Alt text](./passwd.png "Optional title")
