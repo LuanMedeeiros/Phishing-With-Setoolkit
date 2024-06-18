@@ -17,4 +17,4 @@
 
 ### Resutados
 
-<img src="resultado" alt="Texto Alternativo">
+<img src="resultado.png" alt="Texto Alternativo">
