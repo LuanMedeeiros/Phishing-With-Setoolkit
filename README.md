@@ -17,4 +17,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text]([./passwd.png "Optional title"](https://files.fm/u/4r4p3zy4dz))
